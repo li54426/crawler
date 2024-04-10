@@ -1,3 +1,10 @@
+# 1024 code files
+# .1024
+# .1024feature-file
+# .1024nix
+.1024*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
